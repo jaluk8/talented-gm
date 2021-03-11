@@ -1,5 +1,5 @@
 #include "menumodule.h"
-#include "talentdata.h"
+#include "../models/talentdata.h"
 #include <QPushButton>
 #include <QHBoxLayout>
 #include <QTimer>

@@ -16,7 +16,6 @@ public:
     ~TurnInitController();
 
     void setWidgets(QWidget* turnInitContents);
-    void addPlayer();
 
 signals:
 

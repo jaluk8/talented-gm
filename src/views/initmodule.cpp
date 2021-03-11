@@ -1,6 +1,6 @@
 #include "initmodule.h"
-#include "svp.h"
-#include "talentdata.h"
+#include "../models/svp.h"
+#include "../models/talentdata.h"
 #include <QLineEdit>
 #include <QCheckBox>
 #include <QDoubleSpinBox>

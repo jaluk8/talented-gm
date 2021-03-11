@@ -16,7 +16,7 @@ class EditorLocController : public Controller
 {
     Q_OBJECT
 public:
-    explicit EditorLocController(QObject *parent = 0);
+    explicit EditorLocController(QObject *parent = nullptr);
     ~EditorLocController();
 
     void setWidgets(QComboBox* editLocationCombo, QLineEdit* editLocationName, QSpinBox* editMinionSpin1, QSpinBox* editMinionSpin2, QWidget* editLocContents, QComboBox* editlocNPCCombo, QTextEdit* editLocDesc);

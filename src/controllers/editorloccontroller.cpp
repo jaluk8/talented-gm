@@ -1,10 +1,10 @@
 #include "editorloccontroller.h"
-#include "loctemplate.h"
-#include "npctemplate.h"
-#include "talentdata.h"
-#include "talentfile.h"
-#include "turn.h"
-#include "menumodule.h"
+#include "../models/loctemplate.h"
+#include "../models/npctemplate.h"
+#include "../models/talentdata.h"
+#include "../models/talentfile.h"
+#include "../models/turn.h"
+#include "../views/menumodule.h"
 #include <QComboBox>
 #include <QLineEdit>
 #include <QSpinBox>

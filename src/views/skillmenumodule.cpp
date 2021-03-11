@@ -1,5 +1,5 @@
 #include "skillmenumodule.h"
-#include "skill.h"
+#include "../models/skill.h"
 #include <QHBoxLayout>
 #include <QLineEdit>
 #include <QDoubleSpinBox>

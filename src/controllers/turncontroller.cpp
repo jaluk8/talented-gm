@@ -3,8 +3,8 @@
 #include "turnloccontroller.h"
 #include "turninitcontroller.h"
 #include "turninfocontroller.h"
-#include "talentdata.h"
-#include "talentfile.h"
+#include "../models/talentdata.h"
+#include "../models/talentfile.h"
 #include <QLabel>
 #include <QList>
 #include <QMessageBox>

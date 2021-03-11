@@ -1,8 +1,8 @@
 #include "temploccontroller.h"
-#include "loctemplate.h"
-#include "menumodule.h"
-#include "talentdata.h"
-#include "talentfile.h"
+#include "../models/loctemplate.h"
+#include "../views/menumodule.h"
+#include "../models/talentdata.h"
+#include "../models/talentfile.h"
 #include <QLayout>
 #include <QVBoxLayout>
 

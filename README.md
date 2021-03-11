@@ -4,7 +4,7 @@
 *Wild Talents* was created by and belongs to Arc Dream Publishing. I am in no way affiliated with Arc Dream Publishing and do not make money off this program.
 
 ## Description
-Talented GM is a simple tool for game masters (GMs) of the role-playing game *Wild Talents*. Using TalentedGM, one can create custom non-player characters (NPCs). This includes stats, skills, and hitboxes. These NPCs, along with minions, can be combined to make up custom locations. While a game is in process, one can load NPCs or locations into the current turn. Each turn also allows for intiative tracking and miscellaneous notes.
+Talented GM is a simple tool for game masters (GMs) of the game *Wild Talents*. Using TalentedGM, one can create custom non-player characters (NPCs). This includes stats, skills, and hitboxes. These NPCs, along with minions, can be combined to make up custom locations. While a game is in process, one can load NPCs or locations into the current turn. Each turn also allows for intiative tracking and miscellaneous notes.
 
 ## Dependecies
  * Qt version 5 or above
@@ -36,6 +36,6 @@ The editor tab is used for editing locations and NPCs. The left side is for loca
 Note: When an NPC template is modified and saved, all location templates that contain the NPC will be updated.
 
 ## Copyright
-Copyright (C) 2017 Jan Lucas Krueger (jaluk8)
+Copyright (C) 2021 Jan Lucas Krueger (jaluk8)
 
 Copying and distributing this project, with or without modification, is conditionally permitted according to the LGPLv3 license, a copy of which is provided in this repository. 

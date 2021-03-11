@@ -1,5 +1,5 @@
 #include "hashcontroller.h"
-#include "talentdata.h"
+#include "../models/talentdata.h"
 #include <QCryptographicHash>
 #include <QBuffer>
 #include <QDataStream>

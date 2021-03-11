@@ -1,5 +1,5 @@
 #include "svpmenumodule.h"
-#include "svp.h"
+#include "../models/svp.h"
 #include <QHBoxLayout>
 #include <QLineEdit>
 #include <QDoubleSpinBox>

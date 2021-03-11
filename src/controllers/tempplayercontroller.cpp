@@ -1,8 +1,8 @@
 #include "tempplayercontroller.h"
-#include "svp.h"
-#include "svpmenumodule.h"
-#include "talentdata.h"
-#include "talentfile.h"
+#include "../models/svp.h"
+#include "../views/svpmenumodule.h"
+#include "../models/talentdata.h"
+#include "../models/talentfile.h"
 #include <QLinkedList>
 #include <QVBoxLayout>
 #include <QDoubleSpinBox>

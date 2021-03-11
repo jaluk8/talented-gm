@@ -1,10 +1,10 @@
 #include "turnloccontroller.h"
-#include "location.h"
-#include "talentdata.h"
-#include "talentfile.h"
-#include "turn.h"
-#include "npcmenumodule.h"
-#include "npc.h"
+#include "../models/location.h"
+#include "../models/talentdata.h"
+#include "../models/talentfile.h"
+#include "../models/turn.h"
+#include "../views/npcmenumodule.h"
+#include "../models/npc.h"
 #include <QLabel>
 #include <QSpinBox>
 #include <QLayout>

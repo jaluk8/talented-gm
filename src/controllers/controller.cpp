@@ -1,6 +1,6 @@
 #include "controller.h"
-#include "module.h"
-#include "talentdata.h"
+#include "../views/module.h"
+#include "../models/talentdata.h"
 #include <QLayout>
 #include <QVBoxLayout>
 #include <QWidget>

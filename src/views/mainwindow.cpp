@@ -1,10 +1,10 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
-#include "talentdata.h"
-#include "npctemplate.h"
+#include "../models/talentdata.h"
+#include "../models/npctemplate.h"
 #include "svpmenumodule.h"
-#include "svp.h"
-#include "maincontroller.h"
+#include "../models/svp.h"
+#include "../controllers/maincontroller.h"
 #include <QDateTime>
 #include <QLinkedList>
 #include <QCloseEvent>

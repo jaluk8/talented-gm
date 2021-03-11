@@ -1,9 +1,9 @@
 #include "turninitcontroller.h"
-#include "initiativeact.h"
-#include "initmodule.h"
-#include "talentdata.h"
-#include "talentfile.h"
-#include "turn.h"
+#include "../models/initiativeact.h"
+#include "../views/initmodule.h"
+#include "../models/talentdata.h"
+#include "../models/talentfile.h"
+#include "../models/turn.h"
 #include <QWidget>
 #include <QLayout>
 #include <QLineEdit>
@@ -75,11 +75,6 @@ void TurnInitController::fromView()
 void TurnInitController::setWidgets(QWidget* turnInitContents)
 {
     uiContents = turnInitContents;
-}
-
-void TurnInitController::addPlayer()
-{
-
 }
 
 void TurnInitController::deleteInit(QString identity)

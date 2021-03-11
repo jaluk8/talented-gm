@@ -1,7 +1,7 @@
 #include "turninfocontroller.h"
-#include "npc.h"
-#include "svp.h"
-#include "skill.h"
+#include "../models/npc.h"
+#include "../models/svp.h"
+#include "../models/skill.h"
 #include <QLayout>
 #include <QLabel>
 #include <QTextEdit>

@@ -2,7 +2,7 @@
 #define INITMODULE_H
 
 #include "menumodule.h"
-#include "initiativeact.h"
+#include "../models/initiativeact.h"
 
 class QDoubleSpinBox;
 class QLineEdit;
@@ -12,7 +12,7 @@ class InitModule : public MenuModule
 {
     Q_OBJECT
 public:
-    explicit InitModule(QWidget *parent = 0);
+    explicit InitModule(QWidget *parent = nullptr);
     ~InitModule();
 
     void addWidgets();

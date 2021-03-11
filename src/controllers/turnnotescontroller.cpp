@@ -1,7 +1,7 @@
 #include "turnnotescontroller.h"
-#include "talentdata.h"
-#include "talentfile.h"
-#include "turn.h"
+#include "../models/talentdata.h"
+#include "../models/talentfile.h"
+#include "../models/turn.h"
 #include <QTextEdit>
 
 TurnNotesController::TurnNotesController(QObject* parent) : Controller(parent)

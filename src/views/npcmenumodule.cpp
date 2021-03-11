@@ -1,8 +1,8 @@
 #include "npcmenumodule.h"
-#include "npc.h"
-#include "hitarea.h"
-#include "controller.h"
-#include "talentdata.h"
+#include "../models/npc.h"
+#include "../models/hitarea.h"
+#include "../controllers/controller.h"
+#include "../models/talentdata.h"
 #include <QLabel>
 #include <QLayout>
 #include <QVBoxLayout>
